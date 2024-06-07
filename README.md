@@ -19,3 +19,5 @@ This project is done to perform webscrapping from a news website using scrapy
    This will scrap out the first value from the mentioned class.
 9. Similarly, you can scrap different information of your choice. I scraped headings and summary.
 10. Make adjustments to your spider and run the file.
+
+All lines between ' ' are codes to be executed. You can change the name of project, spider, website accordingly.
