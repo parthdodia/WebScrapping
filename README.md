@@ -4,7 +4,7 @@ This project is done to perform webscrapping from a news website using scrapy
 
 1. Install scrapy in your environment using cmd
    
-      pip install scrapy'
+      pip install scrapy
 2. Add scrapy to the environment path variable
 3. Go to your desired location and create a project folder
    
